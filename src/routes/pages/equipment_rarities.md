@@ -4,7 +4,7 @@ category: Miscellaneous
 ord: 10000
 ---
 
-Chests can have different rarities. Better the rarity is, the better equipment it is.
+Chests can have different rarities. Better the rarity is, the better [equipment](./equipmenet.md) can be found.
 
 ## Chest Tiers
 
@@ -15,29 +15,29 @@ Chests can have different rarities. Better the rarity is, the better equipment i
 - Pink Jewel
   Pink Jeweled can be found in Multiplayer Dungeons (ex. Depths of Rage, Depths of Jealousy).
 
-## Equipment Tiers
+## [Equipment](./equipmenet.md) Tiers
 
-### Common
+### [Common](./equipment.md#commonenchanted)
 
 Upgradeable. They have no special properties. Maximum drop level is your current max level. Usually drops from Wooden chests.
 
-### Enchanted
+### [Enchanted](./equipment.md#commnoenchanted)
 
 Upgradeable. Enchants will affect your stats Maximum drop level is up to half of your current max level (up to +50) but can be upgraded to +100. Usually drops from Silver chests.
 
-### Unique
+### [Unique](./equipment.md#unique)
 
 Not upgradeable. Every item has special stats that define it. Maximum level is 64% of your current max level (max. +64). Usually drops from Golden chests.
 
-### Super Unique
+### [Super Unique](./equipment.md#super-unique)
 
 Not upgradeable. Most likely stronger than Unique but not always, may affect your stats in a way you don't like. Maximum level is 52% of your current max level (max. +52). Usually drops from Jeweled and **Pink Jeweled** chests.
 
-### Ultimate
+### [Ultimate](./equipment.md#ultimate)
 
 Drops with very a low chance from **Pink Jeweled** chests, the higher the chest level the higher the chance! Will always be the best equipment.
 
-### Relics
+### [Relics](./equipment.md#relic)
 
 New items with special powers! Can be found at the end of some floors or quests. Can't be found in chests.
 
