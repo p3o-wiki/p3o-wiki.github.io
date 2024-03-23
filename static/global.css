@@ -4,12 +4,31 @@
 	font-size: 16px;
 }
 
+::-webkit-scrollbar {
+	width: 6px;
+	height: 0;
+}
+
+::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px transparent;
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+	background: rgb(0 0 0 / 20%);
+	border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #868e96;
+}
+
 body {
 	margin: 0;
 	padding: 0;
 	background: url('./background.png') no-repeat;
 	background-size: cover;
-	background-position: bottom center;
+	background-position: top center;
 
 	min-height: 100vh;
 	height: fit-content;
@@ -37,4 +56,104 @@ a {
 	border: solid 1px #362b0b85;
 	padding: 0.5rem;
 	border-radius: 0.5rem;
+}
+
+.none {
+	display: none;
+}
+
+.w-full {
+	width: 100%;
+}
+
+.flex-row {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.flex-col {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.card ul {
+	padding: 1em;
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1.25em;
+}
+
+.card li {
+	word-break: keep-all;
+	width: max-content;
+}
+
+.card ul > li::marker {
+	content: none;
+}
+
+.toggled-content {
+	display: none;
+}
+
+[type='radio']:checked ~ .toggled-content {
+	display: block;
+}
+
+.icon {
+	cursor: pointer;
+	user-select: none;
+	background-color: white;
+	border: 4px solid black;
+	color: black;
+	border-radius: 100%;
+	padding: 0.5em;
+}
+
+.class-icon,
+.pon-icon {
+	--size: 40px;
+	width: var(--size);
+	height: var(--size);
+	background-repeat: no-repeat;
+
+	margin: 0.5em;
+	padding: 0;
+
+	transition: 0.25s;
+}
+
+.class-icon {
+	background-image: url('./icons/class_icons.png');
+	background-size: 188px; /* Madeline: this is a magic value */
+}
+
+.hover-invert:hover {
+	filter: invert(100%) grayscale(100%);
+}
+
+.class-icon[data-class='bow'] {
+	background-position: calc(-1 * var(--size) * 2) calc(-1 * var(--size) * 0);
+}
+
+.class-icon[data-class='shield'] {
+	background-position: calc(-1 * var(--size) * 0) calc(-1 * var(--size) * 0);
+}
+
+.class-icon[data-class='spear'] {
+	background-position: calc(-1 * var(--size) * 1) calc(-1 * var(--size) * 0);
+}
+
+.class-icon[data-class='dark'] {
+	background-position: calc(-1 * var(--size) * 2) calc(-1 * var(--size) * 1);
 }
