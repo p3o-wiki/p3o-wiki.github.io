@@ -11,12 +11,9 @@ body {
 	background-size: cover;
 	background-position: bottom center;
 
-	min-width: 100vw;
 	min-height: 100vh;
-	width: fit-content;
 	height: fit-content;
-
-	overflow: scroll;
+	overflow-y: scroll;
 }
 
 article {
