@@ -1,0 +1,43 @@
+:root {
+	font-family: sans-serif;
+	color: #3b0f0f;
+	font-size: 16px;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: url('./background.png') no-repeat;
+	background-size: cover;
+	background-position: bottom center;
+
+	min-width: 100vw;
+	min-height: 100vh;
+	width: fit-content;
+	height: fit-content;
+
+	overflow: scroll;
+}
+
+article {
+	margin: 1.5rem;
+	padding: 1rem;
+	background: #ffedd2;
+	border-radius: 0.75rem;
+}
+
+section {
+	border: 2px solid #cebfaa;
+	margin: 0.5rem;
+	background: #f2e1c7;
+	padding: 0.25rem;
+	border-radius: 1rem;
+}
+
+a {
+	background: #fbf6ee;
+	color: #0e479a;
+	border: solid 1px #362b0b85;
+	padding: 0.5rem;
+	border-radius: 0.5rem;
+}
