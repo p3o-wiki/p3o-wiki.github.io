@@ -1,5 +1,5 @@
 ---
-title: Materials
+title: Stews
 category: Items
 ord: 1000000
 ---
