@@ -4,8 +4,6 @@ category: Miscellaneous
 ord: 10000
 ---
 
-# Equipment Rarities and Chests
-
 Chests can have different rarities. Better the rarity is, the better equipment it is.
 
 ## Chest Tiers

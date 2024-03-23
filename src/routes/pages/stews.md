@@ -4,8 +4,6 @@ category: Items
 ord: 1000000
 ---
 
-# Stews
-
 ## Gruel stew
 
 Doubles picked up Ka-Ching.
