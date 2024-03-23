@@ -37,8 +37,3 @@ New items with special powers! Can be found at the end of some floors or quests.
 - Every Multiplayer Dungeon has it's own chance for a Pink Jeweled chest to appear.
 - Obtaining Unique and Super Unique items with levels higher than designed is possible but they're not permanent.
 - Drop level may vary greatly.
-## Tips
-- Dismantle wooden tier equipment. They aren't worth keeping.
-- Don't dismantle enchanted equipment, as they might be useful later.
-- **Super Unique** equipment can change your class, so choose carefully.
-- Pink Jewel chests can be found in multiplayer dungeons (examples: Libera, Feisu).
