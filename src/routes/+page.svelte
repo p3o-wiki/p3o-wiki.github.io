@@ -4,7 +4,7 @@
 	import banner from '$lib/banner.png'
 </script>
 
-<article>
+<article class="flex-col">
 	<h1>Welcome to Patapon 3 Overhaul Wiki!</h1>
 	<img src={banner} alt="banner" width="100" />
 	<p>Here you can find updated information about the overhaul mod for Patapon 3.</p>
@@ -60,36 +60,6 @@
 		width: 95%;
 	}
 
-	article {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-	}
-
-	.card {
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-	}
-
-	.card ul {
-		padding: 1em;
-		margin: 0;
-		display: flex;
-		flex-direction: column;
-		align-items: center;
-		gap: 1.25em;
-	}
-
-	.card li {
-		word-break: keep-all;
-		width: max-content;
-	}
-
-	.card ul > li::marker {
-		content: none;
-	}
-
 	#cards {
 		flex-wrap: wrap;
 		display: flex;
@@ -105,7 +75,7 @@
 
 	#article-list {
 		max-height: 300px;
-		width: 200px;
+		width: fit-content;
 		overflow: scroll;
 	}
 </style>
