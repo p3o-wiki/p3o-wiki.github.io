@@ -23,7 +23,7 @@ Upgradeable. They have no special properties. Maximum drop level is your current
 
 ### [Enchanted](./equipment.md#commnoenchanted)
 
-Upgradeable. Enchants will affect your stats Maximum drop level is up to half of your current max level (up to +50) but can be upgraded to +100. Usually drops from Silver chests.
+Upgradeable. [Enchants](./enchants.md) will affect your stats Maximum drop level is up to half of your current max level (up to +50) but can be upgraded to +100. Usually drops from Silver chests.
 
 ### [Unique](./equipment.md#unique)
 
@@ -35,11 +35,11 @@ Not upgradeable. Most likely stronger than Unique but not always, may affect you
 
 ### [Ultimate](./equipment.md#ultimate)
 
-Drops with very a low chance from **Pink Jeweled** chests, the higher the chest level the higher the chance! Will always be the best equipment.
+Not Upgradeable. Drops with very a low chance from **Pink Jeweled** chests, the higher the chest level the higher the chance! Will always be the best equipment.
 
 ### [Relics](./equipment.md#relic)
 
-New items with special powers! Can be found at the end of some floors or quests. Can't be found in chests.
+New items with special powers! Can be found at the end of some floors or quests. Can't be found in chests, it's stats scale with unit level.
 
 ## Tips
 
