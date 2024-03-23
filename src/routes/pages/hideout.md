@@ -11,6 +11,6 @@ ord: 100000
 ## Sukopon
 ## Barracks
 ## Team Totem
-## Armory
+## Armoury
 ## Hero Gate
 ## Blacksmith
