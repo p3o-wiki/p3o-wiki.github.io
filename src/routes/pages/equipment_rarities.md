@@ -11,9 +11,9 @@ Chests can have different rarities. Better the rarity is, the better [equipment]
 - Wooden
 - Silver
 - Golden
-- Jewel
-- Pink Jewel
-##### Pink Jeweled can be found in Multiplayer Dungeons (ex. Depths of Rage, Depths of Jealousy).
+- Jewelled
+- Pink Jewelled
+##### Pink Jewelled can be found in Multiplayer Dungeons (ex. Depths of Rage, Depths of Jealousy).
 
 ## [Equipment](./equipmenet.md) Tiers
 
@@ -31,11 +31,11 @@ Not upgradeable. Every item has special stats that define it. Maximum level is 6
 
 ### [Super Unique](./equipment.md#super-unique)
 
-Not upgradeable. Most likely stronger than Unique but not always, may affect your stats in a way you don't like. Maximum level is 52% of your current max level (max. +52). Usually drops from Jeweled and **Pink Jeweled** chests.
+Not upgradeable. Most likely stronger than Unique but not always, may affect your stats in a way you don't like. Maximum level is 52% of your current max level (max. +52). Usually drops from Jewelled and **Pink Jewelled** chests.
 
 ### [Ultimate](./equipment.md#ultimate)
 
-Not Upgradeable. Drops with very a low chance from **Pink Jeweled** chests, the higher the chest level the higher the chance! Will always be the best equipment.
+Not Upgradeable. Drops with very a low chance from **Pink Jewelled** chests, the higher the chest level the higher the chance! Will always be the best equipment.
 
 ### [Relics](./equipment.md#relic)
 
@@ -51,7 +51,7 @@ New items with special powers! Can be found at the end of some floors or quests.
 
 ### Notes
 
-- Gargoyles may hold any chest tier except for Pink Jeweled.
-- Every Multiplayer Dungeon has it's own chance for a Pink Jeweled chest to appear.
+- Gargoyles may hold any chest tier except for Pink Jewelled.
+- Every Multiplayer Dungeon has it's own chance for a Pink Jewelled chest to appear.
 - Obtaining Unique and Super Unique items with levels higher than designed is possible but they're not permanent.
 - Drop level may vary greatly.
