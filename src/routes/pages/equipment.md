@@ -4,8 +4,8 @@ category: Items
 ord: 100
 ---
 
-Equipment along with other items can be found in [The Armory](./hideout.md#armory). 
-Common and Enchanted equipment can be upgraded in [The Blacksmith](./hideout.md#blacksmith).
+Equipment along with other items can be found in the [Armoury](./hideout.md#armoury). 
+Common and Enchanted equipment can be upgraded in the [Blacksmith](./hideout.md#blacksmith).
 ## Common/Enchanted
 ## Unique
 ## Super Unique
