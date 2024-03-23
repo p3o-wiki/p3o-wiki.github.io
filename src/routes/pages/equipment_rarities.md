@@ -13,7 +13,7 @@ Chests can have different rarities. Better the rarity is, the better [equipment]
 - Golden
 - Jewel
 - Pink Jewel
-  Pink Jeweled can be found in Multiplayer Dungeons (ex. Depths of Rage, Depths of Jealousy).
+##### Pink Jeweled can be found in Multiplayer Dungeons (ex. Depths of Rage, Depths of Jealousy).
 
 ## [Equipment](./equipmenet.md) Tiers
 
