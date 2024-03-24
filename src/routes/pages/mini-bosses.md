@@ -11,6 +11,7 @@ These enemies are stronger than enemy units but weaker than [Bosses](./bosses).
 ### Fenrir
 ### Thunder Lion
 ### Gargoyle
+### Elite Gargoyle
 ### Golem
 ### Ice Golem
 ### Treant
