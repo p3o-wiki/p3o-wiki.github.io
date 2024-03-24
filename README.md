@@ -1,7 +1,7 @@
 # Patapon 3 Overhaul Wiki
 ## Pages
 
-Pages are found in [this folder](https://github.com/p3o-wiki/p3o-wiki.github.io/tree/main/src/routes/pages). To make a new page, create a markdown file (ending with .md). Those files use syntax described below.
+[Tutorial: Pages](https://github.com/p3o-wiki/p3o-wiki.github.io/wiki/Pages)
 
 ## Syntax
 
