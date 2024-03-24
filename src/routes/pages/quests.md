@@ -4,7 +4,13 @@ category: Campaign
 ord: 10
 ---
 Quests allow you to progress through story, obtain items, level up and many many more!<br>
-Invidual quests can level up (up to Lv.100), increasing their difficulty and rewards! 
+Invidual quests can level up (up to Lv.100), increasing their difficulty and rewards!<br>
+### Tags
+Quests can have one of 3 Tags
+- [New]
+- [Free]
+- [End]
+##### Ended/Completed quests cannot be replayed, this property is removed after getting the [2nd Ending](./endings.md#bonus-3)
 ## Story
 ### Field of Angry Giants
 ### Arena of Valour
