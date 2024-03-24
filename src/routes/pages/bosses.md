@@ -33,7 +33,7 @@ They are toughest of the enemies that can be encountered.
 ### Zaknel
 ### Goruru
 ### Gigante King
-## [DLC](./quests.md#dlc) Bosses
+## [DLC](./quests#dlc) Bosses
 Found in the [Dark World](./quests#dark-world) and [Custom Mission Pack](./quests#custom-mission-pack). 
 ### Terantus
 ### Manboroth
