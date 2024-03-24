@@ -7,6 +7,7 @@
 
 	<link rel="icon" href="%sveltekit.assets%/favicon.ico" />
 	<link rel="stylesheet" href="%sveltekit.assets%/global.css" />
+	<script src="https://kit.fontawesome.com/94f856f993.js" crossorigin="anonymous"></script>
 
 	<title>Patapon 3 Overhaul Wiki</title>
 	<meta name="description" content="The wiki for Patapon 3 Overhaul, providing accurate information for overhaul." />
@@ -24,12 +25,23 @@
 		flex: 1;
 		padding: 8px;
 		border-radius: 0;
-		margin: 1px;
+		font-size: 24px;
+		margin: 2px;
 		background: #FFFB9B;
 		border: 2px solid #FF9C00;
 		box-shadow: 2px -2px 0 black, -2px -2px 0 black, 2px 2px 0 black, -2px 2px 0 black;
 		text-decoration: none;
 		color: black;
+		display: flex;
+		justify-content: center;
+	}
+
+	.navbar a:nth-child(1) {
+		margin-right: 1px;
+	}
+
+	.navbar a:nth-child(2) {
+		margin-left: 1px;
 	}
 
 	.navbar p {
@@ -39,8 +51,8 @@
 
 <body data-sveltekit-preload-data="hover">
 	<div class="navbar">
-		<a href="../"><p>Home</p></a>
-		<a><p>WIP</p></a>
+		<a title="Home" href="../"><i class="fa-solid fa-house"></i></a>
+		<a title="Settings"><i class="fa-solid fa-gear"></i><p>(WIP)</p></a>
 	</div>
 	<div style="display: contents">%sveltekit.body%</div>
 </body>

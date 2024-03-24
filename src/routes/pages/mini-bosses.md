@@ -4,6 +4,7 @@ category: Enemies
 ord: 1000
 ---
 These enemies are stronger than enemy units but weaker than [Bosses](./bosses).
+## Types
 ### Cyclops
 ### Mutant Cyclops
 ### Lava Salamander
