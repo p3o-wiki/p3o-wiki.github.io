@@ -7,12 +7,12 @@
 }
 
 ::-webkit-scrollbar {
-	width: 6px;
+	width: 14px;
 	height: 0;
 }
 
 ::-webkit-scrollbar-track {
-	box-shadow: inset 0 0 5px transparent;
+	background: #ffedd2;
 	border-radius: 10px;
 }
 
@@ -22,18 +22,20 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-	background: #868e96;
+	background: rgb(0 0 0 / 70%);
+}
+
+html {
+	background: black;
 }
 
 body {
 	margin: 0;
 	padding: 0;
+	background: black;
 	background: url('./background.png') no-repeat;
-	background-size: cover;
+	background-size: contain;
 	background-position: top center;
-
-	min-height: 100vh;
-	height: fit-content;
 	overflow: hidden;
 }
 
@@ -42,6 +44,8 @@ article {
 	padding: 1rem;
 	background: #ffedd2;
 	border-radius: 0.75rem;
+	height: calc(98vh - 3rem - 48px);
+	overflow-y: scroll;
 }
 
 section {
@@ -54,13 +58,14 @@ section {
 
 a {
 	color: #0e479a;
+	text-decoration: none;
+}
+
+.card a {
 	border: solid 1px #362b0b85;
 	margin: 0.5rem;
 	padding: 0.45rem;
 	border-radius: 0.5rem;
-}
-
-.card a {
 	background: #fbf6ee;
 	filter: drop-shadow(0px 0px 0.5px black);
 }
@@ -82,14 +87,31 @@ p {
 	margin: 2px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h3,
+h4,
+h5,
+h6 {
+	margin: 4px 2px;
+}
+
+h1 {
+	margin: 2px 0 !important;
+}
+
+h2 {
+	margin: 6px 0px;
+	border-bottom: 2px solid #3b0f0f;
+}
+
+section h2 {
+	border: none;
 	margin: 4px 2px;
 }
 
 hr {
 	border-radius: 20px;
 	border: none;
-	border: 1px solid black;
+	border: 1px solid #3b0f0f;
 }
 
 .none {
@@ -138,7 +160,7 @@ td {
 	width: max-content;
 }
 
-.card ul > li::marker {
+.card ul>li::marker {
 	content: none;
 }
 
@@ -146,7 +168,7 @@ td {
 	display: none;
 }
 
-[type='radio']:checked ~ .toggled-content {
+[type='radio']:checked~.toggled-content {
 	display: block;
 }
 
@@ -175,11 +197,16 @@ td {
 
 .class-icon {
 	background-image: url('./icons/class_icons.png');
-	background-size: 188px; /* Madeline: this is a magic value */
+	background-size: 188px;
+	/* Madeline: this is a magic value */
 }
 
 .hover-invert:hover {
 	filter: invert(100%) grayscale(100%);
+}
+
+.hover-invert {
+	transition: 0.25s;
 }
 
 .class-icon[data-class='bow'] {
@@ -196,4 +223,24 @@ td {
 
 .class-icon[data-class='dark'] {
 	background-position: calc(-1 * var(--size) * 2) calc(-1 * var(--size) * 1);
+}
+
+.class-single span {
+	border: 4px solid #3b0f0f; /* change color when selected */
+	background: #3b0f0f;
+	padding: 4px 6px;
+	color: white;
+}
+
+.class-title, .class-description, .skill-title, .skill-description {
+	margin: 4px 6px;
+	text-align: left;
+}
+
+.class-title {
+	text-align: center;
+}
+
+.skill-title, .class-title {
+	font-weight: 500;
 }
