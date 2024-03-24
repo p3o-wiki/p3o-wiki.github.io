@@ -5,12 +5,17 @@ ord: 10
 ---
 Quests allow you to progress through story, obtain items, level up and many many more!<br>
 Individual quests can level up (up to Lv.100), increasing their difficulty and rewards!<br>
+<section id="tags">
+
 ### Tags
 Quests can have one of 3 Tags
 - [New]
 - [Free]
 - [End]
 ##### Ended quests cannot be replayed, this property is removed after getting the [2nd Ending](./endings#bonus-3)
+</section>
+<section id="story">
+
 ## Story
 ### Field of Angry Giants
 - Traverse the Field of Giants!
@@ -26,7 +31,7 @@ Quests can have one of 3 Tags
 - The Dauntless Dragon, Majidonga
 ### Snow Field of Sullied Tears
 - Big Chills in Pure Snow
-- Naughtyfind and the Ice Forest of Introversion
+- Naughtyfins and the Ice Forest of Introversion
 - Hibernating Dragon
 - Blizzard Tower and the Bonedeth Brigade
 ### Racing Alley of Purity
@@ -95,6 +100,9 @@ Quests can have one of 3 Tags
 ### Tomb of Tolerance
 - Archfiend of Tolerance
 - Eternal Archfiends and the Other Vessel
+</section>
+<section id="other">
+
 ## Other
 #### Patapon Training Grounds
 - Advance! Attack!
@@ -104,23 +112,49 @@ Quests can have one of 3 Tags
 - Target Dummy
 #### Dark World Map
 Leads to [DLC Quests](#dlc).
+</section>
+<section id="multiplayer-dungeons">
+
 ## Multiplayer Dungeons
+<section id="depths-of-rage">
+
 ### Depths of Rage
 - 【Multi】Fire Dragon Valor
+</section>
+<section id="heights-of-lust">
+
 ### Heights of Lust
 - 【Multi】Ice Dragon Inosen
+</section>
+<section id="dungeon-of-pride">
+
 ### Dungeon of Pride
 - 【Multi】Thunder Beast Justi
+</section>
+<section id="basement-of-greed">
+
 ### Basement of Greed
 - 【Multi】Godtree Feisu
+</section>
+<section id="depths-of-gluttony">
+
 ### Depths of Gluttony
 - 【Multi】Hyumitto the Baby Dragon
+</section>
+<section id="heights-of-indolence">
+
 ### Heights of Indolence
 - 【Multi】Demon Forudo
+</section>
+<section id="depeths-of-jealousy">
+
 ### Depths of Jealousy
 - 【Multi】Black Dragon Libera
+</section>
+<section id="dlc">
 
 ## DLC
 
 ### Dark World
 ### Custom Mission Pack
+</section>

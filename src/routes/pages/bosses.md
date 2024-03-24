@@ -5,6 +5,8 @@ ord: 100
 ---
 
 They are toughest of the enemies that can be encountered.
+<section id="story-bosses">
+
 ## Story Bosses
 ### Accursed Dodonga
 ### Majidonga
@@ -20,10 +22,16 @@ They are toughest of the enemies that can be encountered.
 ### Zuttankarmen
 ### Arch Pandara
 ### Dark Pondora
+</section>
+<section id="story-half-bosses">
+
 ### Story Half Bosses
 - Matango
 - Ancient Superweapon Org
 - Superweapon Dahl
+</section>
+<section id="rare-bosses">
+
 ## Rare Bosses
 ### Gigantus
 ### Manboth
@@ -33,6 +41,9 @@ They are toughest of the enemies that can be encountered.
 ### Zaknel
 ### Goruru
 ### Gigante King
+</section>
+<section id="dlc-bosses">
+
 ## [DLC](./quests#dlc) Bosses
 Found in the [Dark World](./quests#dark-world) and [Custom Mission Pack](./quests#custom-mission-pack). 
 ### Terantus
@@ -45,6 +56,10 @@ Found in the [Dark World](./quests#dark-world) and [Custom Mission Pack](./quest
 ### Cosmo Serpent Baros
 ### Cosmo Serpent Garos
 ### Cosmo Serpent Waros
+</section>
+<section id="dlc-half-bosses">
+
 ### DLC Half Bosses
 - Kharma
 - Ormen Karmen
+</section>
