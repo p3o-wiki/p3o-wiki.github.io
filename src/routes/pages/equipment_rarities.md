@@ -15,13 +15,13 @@ Chests can have different rarities. Better the rarity is, the better [equipment]
 - Pink Jewelled
 ##### Pink Jewelled can be found in [Multiplayer Dungeons](./quests#multiplayer-dungeons) (ex. [Depths of Rage](./quests#depths-of-rage), [Depths of Jealousy](./quests#depths-of-jealousy)).
 
-## [Equipment](./equipmenet) Tiers
+## [Equipment](./equipment) Tiers
 
 ### [Common](./equipment#commonenchanted)
 
 Upgradeable. They have no special properties. Maximum drop level is your current max level. Usually drops from Wooden chests.
 
-### [Enchanted](./equipment#commnoenchanted)
+### [Enchanted](./equipment#commonenchanted)
 
 Upgradeable. [Enchants](./enchants) will affect your stats Maximum drop level is up to half of your current max level (up to +50) but can be upgraded to +100. Usually drops from Silver chests.
 
