@@ -12,8 +12,8 @@ ord: 1000000
 - Multiplayer only, used for [Versus](multiplayer#versus) (PvP) and [Vs-Coop](./multiplayer#vs-coop).
 ## Silver Hoshipon
 **Join a team to unlock the Hoshipon Shop, which sells**
-- [Vanity Items](./vanity) for your Hideout.
-- [Music](./music).
+- Vanity Items for your Hideout.
+- Music.
 - Vs structures.
 - [Masks](./spirits).
 - Random [equipment](./equipment) once a day (restocks after 00:00). Only while in another Player's Hideout!

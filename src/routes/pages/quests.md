@@ -4,7 +4,7 @@ category: Campaign
 ord: 10
 ---
 Quests allow you to progress through story, obtain items, level up and many many more!<br>
-Invidual quests can level up (up to Lv.100), increasing their difficulty and rewards!<br>
+Individual quests can level up (up to Lv.100), increasing their difficulty and rewards!<br>
 ### Tags
 Quests can have one of 3 Tags
 - [New]
@@ -105,20 +105,22 @@ Quests can have one of 3 Tags
 #### Dark World Map
 Leads to [DLC Quests](#dlc).
 ## Multiplayer Dungeons
-### **Depths of Rage**
-- 【Multi】Fire Dragon Valo
-### **Heights of Lust**
+### Depths of Rage
+- 【Multi】Fire Dragon Valor
+### Heights of Lust
 - 【Multi】Ice Dragon Inosen
-### **Dungeon of Pride**
+### Dungeon of Pride
 - 【Multi】Thunder Beast Justi
-### **Basement of Greed**
+### Basement of Greed
 - 【Multi】Godtree Feisu
-### **Depths of Gluttony**
+### Depths of Gluttony
 - 【Multi】Hyumitto the Baby Dragon
-### **Heights of Indolence**
+### Heights of Indolence
 - 【Multi】Demon Forudo
-### **Depths of Jealousy**
+### Depths of Jealousy
 - 【Multi】Black Dragon Libera
+
 ## DLC
+
 ### Dark World
 ### Custom Mission Pack
