@@ -225,13 +225,6 @@ td {
 	background-position: calc(-1 * var(--size) * 2) calc(-1 * var(--size) * 1);
 }
 
-.class-single span {
-	border: 4px solid #3b0f0f; /* change color when selected */
-	background: #3b0f0f;
-	padding: 4px 6px;
-	color: white;
-}
-
 .class-title, .class-description, .skill-title, .skill-description {
 	margin: 4px 6px;
 	text-align: left;
