@@ -10,7 +10,7 @@ Quests can have one of 3 Tags
 - [New]
 - [Free]
 - [End]
-##### Ended/Completed quests cannot be replayed, this property is removed after getting the [2nd Ending](./endings#bonus-3)
+##### Ended quests cannot be replayed, this property is removed after getting the [2nd Ending](./endings#bonus-3)
 ## Story
 ### Field of Angry Giants
 - Traverse the Field of Giants!
