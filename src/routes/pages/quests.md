@@ -33,6 +33,7 @@ Quests can have one of 3 Tags
 ### Savannah of Envious Eyes
 ### Arena of Tolerance
 ### Tomb of Tolerance
+## Other
 #### Patapon Training Grounds
 #### Dark World Map
 Leads to [DLC Quests](#dlc).
