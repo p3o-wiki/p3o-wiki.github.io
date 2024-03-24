@@ -1,21 +1,48 @@
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-		<link rel="icon" href="%sveltekit.assets%/favicon.ico" />
-		<link rel="stylesheet" href="%sveltekit.assets%/global.css" />
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
-		<title>Patapon 3 Overhaul Wiki</title>
-		<meta
-			name="description"
-			content="The wiki for Patapon 3 Overhaul, providing accurate information for overhaul."
-		/>
+	<link rel="icon" href="%sveltekit.assets%/favicon.ico" />
+	<link rel="stylesheet" href="%sveltekit.assets%/global.css" />
 
-		%sveltekit.head%
-	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">%sveltekit.body%</div>
-	</body>
+	<title>Patapon 3 Overhaul Wiki</title>
+	<meta name="description" content="The wiki for Patapon 3 Overhaul, providing accurate information for overhaul." />
+	%sveltekit.head%
+</head>
+<style>
+	.navbar {
+		display: flex;
+		text-align: center;
+	}
+
+	.navbar a {
+		width: fit-content;
+		cursor: pointer;
+		flex: 1;
+		padding: 8px;
+		border-radius: 0;
+		margin: 1px;
+		background: #FFFB9B;
+		border: 2px solid #FF9C00;
+		box-shadow: 2px -2px 0 black, -2px -2px 0 black, 2px 2px 0 black, -2px 2px 0 black;
+		text-decoration: none;
+		color: black;
+	}
+
+	.navbar p {
+		margin: 0;
+	}
+</style>
+
+<body data-sveltekit-preload-data="hover">
+	<div class="navbar">
+		<a href="../"><p>Home</p></a>
+		<a><p>WIP</p></a>
+	</div>
+	<div style="display: contents">%sveltekit.body%</div>
+</body>
+
 </html>

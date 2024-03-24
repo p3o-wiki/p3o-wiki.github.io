@@ -76,6 +76,11 @@
 	#article-list {
 		max-height: 300px;
 		width: fit-content;
-		overflow: scroll;
+		overflow: hidden;
+	}
+
+	#article-list ul {
+		overflow-y: scroll;
+		margin: 4px 6px;
 	}
 </style>

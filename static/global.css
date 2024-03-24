@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap');
+
 :root {
-	font-family: sans-serif;
+	font-family: 'Lexend Deca', sans-serif;
 	color: #3b0f0f;
 	font-size: 16px;
 }
@@ -32,7 +34,7 @@ body {
 
 	min-height: 100vh;
 	height: fit-content;
-	overflow-y: scroll;
+	overflow: hidden;
 }
 
 article {
@@ -51,11 +53,43 @@ section {
 }
 
 a {
-	background: #fbf6ee;
 	color: #0e479a;
 	border: solid 1px #362b0b85;
-	padding: 0.5rem;
+	margin: 0.5rem;
+	padding: 0.45rem;
 	border-radius: 0.5rem;
+}
+
+.card a {
+	background: #fbf6ee;
+	filter: drop-shadow(0px 0px 0.5px black);
+}
+
+#categories .card {
+	background: rgba(206, 191, 170, 0.4);
+	padding: 0;
+	overflow: hidden;
+}
+
+#categories .card h3 {
+	margin: 0;
+	padding: 8px 6px;
+	background: rgba(206, 191, 170, 0.4);
+	border-bottom: 2px solid #cebfaa;
+}
+
+p {
+	margin: 2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 4px 2px;
+}
+
+hr {
+	border-radius: 20px;
+	border: none;
+	border: 1px solid black;
 }
 
 .none {
@@ -64,6 +98,11 @@ a {
 
 .w-full {
 	width: 100%;
+}
+
+td {
+	border: 1px solid black;
+	padding: 8px;
 }
 
 .flex-row {
@@ -76,12 +115,13 @@ a {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	text-align: center;
 }
 
 .card {
 	display: flex;
 	flex-direction: column;
-	align-items: center;
+	align-items: stretch;
 }
 
 .card ul {
