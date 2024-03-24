@@ -9,5 +9,5 @@ ord: 10000
 - Unlocks [Depths of Jealousy](./quests#depths-of-jealousy).
 - Unlocks [Completed [End]](./quests#tags) [Story Quests](./quests#story).
 ## Bonus-3
-- Removes the stone curse from [Meden](./hideout.md#meden) and the [Festival](./hideout#festival).
-- [Stews](./stews.md) become obtainable.
+- Removes the stone curse from [Meden](./hideout#meden) and the [Festival](./hideout#festival).
+- [Stews](./stews) become obtainable.
