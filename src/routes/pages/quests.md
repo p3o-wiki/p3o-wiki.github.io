@@ -106,7 +106,7 @@ Quests can have one of 3 Tags
 Leads to [DLC Quests](#dlc).
 ## Multiplayer Dungeons
 ### Depths of Rage
-- 【Multi】Fire Dragon Valo
+- 【Multi】Fire Dragon Valor
 ### Heights of Lust
 - 【Multi】Ice Dragon Inosen
 ### Dungeon of Pride
