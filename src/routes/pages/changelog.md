@@ -3,7 +3,7 @@ title: Changelog
 category: Miscellaneous
 ord: 10000
 ---
-<table border-style: none>
+<table style="border-style: none">
  <tr>
   <td><h3>1 feb 24 (v1.10.2)</h3><br>New features<br>- Units now level up automatically when they get enough exp from exp share<br>- Added a new, improved vs co-op mode (8 player co-op, not 100% finished)<br>- Added pike relic stats and effect (weapon hitbox needs adjustment)<br>Adjustments<br>- Increased fire resist stat in ultimate equipment<br>Fixes<br>- Fixed crashes when using weapon / shield relics<br>- Fixed hideouts not appearing on ad-hoc search after playing a quest or vs<br>- Fixed thorns set skill dealing damage to ally units<br>- Fixed "Purchase all emblems." team goal's completion condition</td>
  </tr>
