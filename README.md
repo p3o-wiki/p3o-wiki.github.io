@@ -10,6 +10,8 @@ Note that you need to have _headers_ describing the title, order (used to sort t
 
 ## Credits
 
-[Site background by Owocek](https://www.deviantart.com/owocektv/art/Demon-Gate-Bababaan-Patapon-2-500846734)<br>
-[Patapon 3 HD Texturepack](https://github.com/Lin-zl522/Patapon-3-HD-Texture-Pack)<br>
+[Site background by Owocek](https://www.deviantart.com/owocektv/art/Demon-Gate-Bababaan-Patapon-2-500846734)
+
+[Patapon 3 HD Texturepack](https://github.com/Lin-zl522/Patapon-3-HD-Texture-Pack)
+
 [Patapon 3 Overhaul HD Texturepack](https://github.com/KnotSora/Patapon-3-Overhaul-HD-Textures)
