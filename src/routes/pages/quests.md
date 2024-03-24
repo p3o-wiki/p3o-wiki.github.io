@@ -151,6 +151,7 @@ Leads to [DLC Quests](#dlc).
 ### Depths of Jealousy
 - 【Multi】Black Dragon Libera
 </section>
+</section>
 <section id="dlc">
 
 ## DLC
