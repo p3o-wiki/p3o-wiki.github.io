@@ -51,7 +51,7 @@ New items with special powers! Can be found at the end of some floors or quests.
 
 ### Notes
 
-- Gargoyles may hold any chest tier except for Pink Jewelled.
+- [Gargoyles](./mini-bosses#gargoyle) may hold any chest tier except for Pink Jewelled.
 - Every [Multiplayer Dungeon](./quests#multiplayer-dungeons)  has it's own chance for a Pink Jewelled chest to appear.
 - Obtaining Unique and Super Unique items with levels higher than designed is possible but they're not permanent.
 - Drop level may vary greatly.
