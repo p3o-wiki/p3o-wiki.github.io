@@ -1,5 +1,5 @@
 ---
 title: Item Sets
-category: Miscellaneous
-ord: 100
+category: Items
+ord: 100000
 ---
