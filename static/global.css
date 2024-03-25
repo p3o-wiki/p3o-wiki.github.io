@@ -114,6 +114,10 @@ hr {
 	border: 1px solid #3b0f0f;
 }
 
+table {
+	border-style: none;
+}
+
 .none {
 	display: none;
 }
@@ -160,7 +164,7 @@ td {
 	width: max-content;
 }
 
-.card ul>li::marker {
+.card ul > li::marker {
 	content: none;
 }
 
@@ -168,7 +172,7 @@ td {
 	display: none;
 }
 
-[type='radio']:checked~.toggled-content {
+[type='radio']:checked ~ .toggled-content {
 	display: block;
 }
 
@@ -225,7 +229,10 @@ td {
 	background-position: calc(-1 * var(--size) * 2) calc(-1 * var(--size) * 1);
 }
 
-.class-title, .class-description, .skill-title, .skill-description {
+.class-title,
+.class-description,
+.skill-title,
+.skill-description {
 	margin: 4px 6px;
 	text-align: left;
 }
@@ -234,6 +241,7 @@ td {
 	text-align: center;
 }
 
-.skill-title, .class-title {
+.skill-title,
+.class-title {
 	font-weight: 500;
 }
