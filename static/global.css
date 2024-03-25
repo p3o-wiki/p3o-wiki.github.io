@@ -126,6 +126,33 @@ table {
 	width: 100%;
 }
 
+.navbar {
+	display: flex;
+	text-align: center;
+}
+
+.navbar > * {
+	width: fit-content;
+
+	flex: 1;
+	padding: 0.5rem;
+	margin: 1rem;
+	font-size: 18px;
+	border-radius: 0;
+
+	background: #fffb9b;
+	border: 2px solid #ff9c00;
+	outline: 2px solid black;
+	color: black;
+
+	text-decoration: none;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	vertical-align: center;
+}
+
 td {
 	border: 1px solid black;
 	padding: 8px;
